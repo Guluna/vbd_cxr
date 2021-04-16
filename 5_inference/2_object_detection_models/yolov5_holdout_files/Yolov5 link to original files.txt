@@ -1,0 +1,14 @@
+
+Train File 
+- Version 2
+https://www.kaggle.com/guluna/10percent-train-as-test-512images?scriptVersionId=57785216
+
+
+Inference on Holdout File
+- Version 5
+https://www.kaggle.com/guluna/infer-10percent-train-as-test-512images?scriptVersionId=57799475
+
+
+Conversion (Each BB on separate line)
+- Version 2
+https://www.kaggle.com/guluna/conversion-for-ensembling/
